@@ -1,0 +1,6 @@
+@DivisoresRest_HostAddress = http://localhost:5057
+
+GET {{DivisoresRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

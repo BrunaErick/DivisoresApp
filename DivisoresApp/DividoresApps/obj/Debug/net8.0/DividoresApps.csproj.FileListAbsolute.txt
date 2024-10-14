@@ -1,0 +1,14 @@
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\bin\Debug\net8.0\DividoresApps.exe
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\bin\Debug\net8.0\DividoresApps.deps.json
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\bin\Debug\net8.0\DividoresApps.runtimeconfig.json
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\bin\Debug\net8.0\DividoresApps.dll
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\bin\Debug\net8.0\DividoresApps.pdb
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.AssemblyInfoInputs.cache
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.AssemblyInfo.cs
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.csproj.CoreCompileInputs.cache
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.dll
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\refint\DividoresApps.dll
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.pdb
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\DividoresApps.genruntimeconfig.cache
+C:\Users\teixe\source\repos\DivisoresApp\DividoresApps\obj\Debug\net8.0\ref\DividoresApps.dll

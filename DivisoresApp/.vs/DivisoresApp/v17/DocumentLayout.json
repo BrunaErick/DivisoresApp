@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA34FE5E-140F-4434-AC05-4FC06A0690DF}|DivisoresRest\\DivisoresRest.csproj|c:\\users\\teixe\\source\\repos\\divisoresapp\\divisoresrest\\controllers\\divisorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA34FE5E-140F-4434-AC05-4FC06A0690DF}|DivisoresRest\\DivisoresRest.csproj|solutionrelative:divisoresrest\\controllers\\divisorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C1C674-3606-4A93-AC8E-A8F44177729C}|DividoresApps\\DividoresApps.csproj|c:\\users\\teixe\\source\\repos\\divisoresapp\\dividoresapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C1C674-3606-4A93-AC8E-A8F44177729C}|DividoresApps\\DividoresApps.csproj|solutionrelative:dividoresapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33C300A-2CE3-4A21-AC8A-A51CA22B642C}|TestDivisores\\TestDivisores.csproj|c:\\users\\teixe\\source\\repos\\divisoresapp\\testdivisores\\divisorfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33C300A-2CE3-4A21-AC8A-A51CA22B642C}|TestDivisores\\TestDivisores.csproj|solutionrelative:testdivisores\\divisorfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DivisoresApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DivisoresApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivisoresController.cs",
+              "DocumentMoniker": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DivisoresRest\\Controllers\\DivisoresController.cs",
+              "RelativeDocumentMoniker": "DivisoresRest\\Controllers\\DivisoresController.cs",
+              "ToolTip": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DivisoresRest\\Controllers\\DivisoresController.cs",
+              "RelativeToolTip": "DivisoresRest\\Controllers\\DivisoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:14:22.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DivisorFinderTests.cs",
+              "DocumentMoniker": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\TestDivisores\\DivisorFinderTests.cs",
+              "RelativeDocumentMoniker": "TestDivisores\\DivisorFinderTests.cs",
+              "ToolTip": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\TestDivisores\\DivisorFinderTests.cs",
+              "RelativeToolTip": "TestDivisores\\DivisorFinderTests.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:06:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DividoresApps\\Program.cs",
+              "RelativeDocumentMoniker": "DividoresApps\\Program.cs",
+              "ToolTip": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DividoresApps\\Program.cs",
+              "RelativeToolTip": "DividoresApps\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:59:36.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DivisoresApp\\Program.cs",
+              "RelativeDocumentMoniker": "DivisoresApp\\Program.cs",
+              "ToolTip": "C:\\Users\\teixe\\source\\repos\\DivisoresApp\\DivisoresApp\\Program.cs",
+              "RelativeToolTip": "DivisoresApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:59:11.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
